@@ -7,4 +7,4 @@ Use meteorite:
 
 Then add via:
 
-```mrt add cron-tick```
+```mrt add meteor-vkontakte```
