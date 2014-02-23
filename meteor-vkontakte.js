@@ -1,1 +1,1 @@
-Vkontakte = Npm.require('vkontakte');
+VkontakteApi = Npm.require('vkontakte');
